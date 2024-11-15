@@ -1,7 +1,7 @@
 ﻿# Задание 7.8.7
 ## Docker-образ приложения, которое будет при запуске контейнера скачивать favicon заданного приложению сайта
 
-* Создал Dockerfile
+* Создал [Dockerfile](https://github.com/skillfactory-devops/b7_docker/blob/main/task%207.8.7/Dockerfile)
 
 ## Улучшить этот Docker-образ согласно изученным лучшим практикам
 
